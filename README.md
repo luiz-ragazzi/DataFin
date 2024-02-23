@@ -14,6 +14,12 @@ To use this project, you'll need `Python` and `Git` installed on your machine.
    ```sh
    git clone https://github.com/luiz-ragazzi/code_test.git
    cd code_test
+   
+2. Make sure to install the Python packages:
+   
+   ```sh
+    pip install -r requirements.txt
+
 
 ## Quick usage
 
