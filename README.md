@@ -2,7 +2,7 @@
 
 This project uses a text file database sqllite3.
 
-The Database file and the instruments data set (instruments.txt) are included in the project.
+The Database file and the input example text (instruments.txt) are included in the project.
 
 
 ## Installation
@@ -23,7 +23,7 @@ To use this project, you'll need `Python` and `Git` installed on your machine.
 
 ## Quick usage
 
-To execute sample data specified in the `main.py` file, simply run:
+To execute the sample on the input example data, run the `main.py` file:
 
 1. Run `main.py`:
    
