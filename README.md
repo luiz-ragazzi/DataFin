@@ -1,44 +1,34 @@
-## Description
+# DataFin Analyzer
+This Python application processes a text file containing financial instrument data to perform comprehensive statistical analyses. It efficiently reads and analyzes the data, providing insightful statistical calculations
 
-This project uses a text file database sqllite3.
+## Technologies
+* Python
+* Sqllite3
 
+## Using the APP
 The Database file and the input example text (instruments.txt) are included in the project.
-
-
-## Installation
-
 To use this project, you'll need `Python` and `Git` installed on your machine.
 
 1. Clone the repository:
-   
    ```sh
    git clone https://github.com/luiz-ragazzi/code_test.git
    cd code_test
    
 2. Make sure to install the Python packages:
-   
    ```sh
     pip install -r requirements.txt
-
-
-## Quick usage
-
-To execute the sample on the input example data, run the `main.py` file:
-
-1. Run `main.py`:
-   
-   ```sh
+3. Run `main.py`:
+    ```sh
    python main.py
-   
-3. To run tests:
+4. To run tests:
    ```sh
    pytest
+
+
+
+
    
-   
-
-
-# Explanation of `process_data` Function
-
+## Explanation of `process_data` Function
   Process instrument data, calculate statistics, and return statistics results as a dictionary.
   
   Parameters:
