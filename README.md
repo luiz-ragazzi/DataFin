@@ -2,7 +2,7 @@
 This Python application processes a text file containing financial instrument data to perform comprehensive statistical analyses. It efficiently reads and analyzes the data, providing insightful statistical calculations
 
 ## Technologies
-* Python
+* Python (Pandas, cachetools)
 * Sqllite3
 
 ## Using the APP
