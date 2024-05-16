@@ -7,7 +7,6 @@ This Python application processes a text file containing financial instrument da
 
 ## Using the APP
 The Database file and the input example text (instruments.txt) are included in the project.
-To use this project, you'll need `Python` and `Git` installed on your machine.
 
 1. Clone the repository:
    ```sh
@@ -23,10 +22,6 @@ To use this project, you'll need `Python` and `Git` installed on your machine.
 4. To run tests:
    ```sh
    pytest
-
-
-
-
    
 ## Explanation of `process_data` Function
   Process instrument data, calculate statistics, and return statistics results as a dictionary.
