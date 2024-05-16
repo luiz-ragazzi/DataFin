@@ -8,18 +8,13 @@ This Python application processes a text file containing financial instrument da
 ## Using the APP
 The Database file and the input example text (instruments.txt) are included in the project.
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/luiz-ragazzi/code_test.git
-   cd code_test
-   
-2. Make sure to install the Python packages:
+1. Make sure to install the Python packages:
    ```sh
     pip install -r requirements.txt
-3. Run `main.py`:
+2. Run `main.py`:
     ```sh
    python main.py
-4. To run tests:
+3. To run tests:
    ```sh
    pytest
    
